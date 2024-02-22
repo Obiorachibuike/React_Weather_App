@@ -9,11 +9,7 @@ The app is developed using React.js and material-UI.
 
 <br/>
 
-## 💻 Live Demo:
 
-https://the-weather-forecasting.netlify.app
-
-<br/>
 
 ## ✨ Getting Started
 
